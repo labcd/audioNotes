@@ -1,0 +1,19 @@
+.record_note {
+	padding-top: 30%;
+	text-align: center;
+}
+
+p.last_notes {
+    
+   color: red;
+   text-align: center;
+
+}
+
+p {
+    font-size: 1.5em;
+}
+
+.center {
+	text-align: center;
+}
